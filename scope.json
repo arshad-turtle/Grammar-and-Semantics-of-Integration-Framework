@@ -1,0 +1,101 @@
+{
+    "Product_Code" : "P6",
+    "Provider_Product_Id" : "5026",
+    "Option_Code" : "",
+    "Option_Name" : "",
+    "Product_Name" : "Super Income",
+    "Is_Active" : true,
+    "Is_Validation_Check" : true,
+    "Product_UIN" : "101N098V05",
+    "TM_Plan_Id" : "272",
+    "Insurer_Code" : "HDFCLI",
+    "Insurer_Name" : "HDFC Life",
+    "Provider" : "NVESTV2",
+    "Nvest_Product_Category" : "Participating",
+    "Nvest_Company_Id" : "5",
+    "Category_Tags" : [
+        "investment",
+        "retirement"
+    ],
+    "Plan_Type" : "Participating",
+    "Min_Policy_Term" : "15 years",
+    "Max_Policy_Term" : "27 years",
+    "Min_Premium_Payment_Term" : "1 years",
+    "Max_Premium_Payment_Term" : "12 years",
+    "Min_Entry_Age" : "30 days",
+    "Max_Entry_Age" : "59 years",
+    "Payment_Frequency_Modes" : [
+        NumberInt(-1),
+        NumberInt(1),
+        NumberInt(3),
+        NumberInt(6),
+        NumberInt(12)
+    ],
+    "Payment_Frequencies" : "Single, Annual, Semi-Annual, Quarterly and Monthly",
+    "Sum_Assured_Limit_On_Death" : "Rs 18457 to No Limit",
+    "Annual_Premium" : "Rs 24,000 to No Limit",
+    "Maturity_Age" : "18 - 75 Years",
+    "Death_Benefit" : [
+        "<p>Death benefit is higher of the following:</p>\n<p>&nbsp;1. Sum Assured on Death + Accrued Reversionary Bonuses + Interim Bonus (if any) + Terminal Bonus (if any)</p>\n<p>2. 105% of total premiums paid till date&nbsp;</p>\n<p>Where, the Sum Assured on Death shall be the higher of:&nbsp;</p>\n<ul>\n    <li>&nbsp;Sum Assured on Maturity&nbsp;</li>\n    <li>10 times Annualised Premium /Single Premium for entry age up to 50 years and 7 times Annualised Premium for entry age greater than 50 years</li>\n</ul>"
+    ],
+    "Death_Benefit_Text" : "",
+    "Maturity_Benefit" : [
+        "For a policy where all due premiums have been paid, the maturity benefit\nwill be the aggregate of:",
+        "1. Last Survival Benefit payout,",
+        "2. Accrued Reversionary Bonuses,",
+        "3. Interim Bonus, if any",
+        "4. Terminal bonus, if any"
+    ],
+    "Key_Features" : [
+        "Regular income for period of 8 to 15 years after premium payment term (under limited pay option)",
+        "Regular income from 2nd Policy Year till the end of policy term (under single pay option)",
+        "Survival Benefits varying from 3.84% to 12.5% of Sum Assured on Maturity payable each year during payout period",
+        "Insurance coverage throughout the policy term",
+        "Boost your regular income with reversionary bonuses and Terminal bonus (if any)",
+        "Plan available with a Short Medical Questionnaire (SMQ) based underwriting"
+    ],
+    "Other_Features" : [
+        "Enhance Protection with optional riders",
+        "Tax benefits as per prevailing tax laws",
+        "Loan facility available for this policy"
+    ],
+    "Exclusions" : [
+        "In case of death due to suicide within 12 months from the date of commencement of risk under the policy or from the date of revival of the policy, as applicable, the nominee or beneficiary of the policyholder shall be entitled to at least 80% of the total premiums paid till the date of death or the surrender value available as on the date of death whichever is higher, provided the policy is in force."
+    ],
+    "Disclaimer" : "",
+    "Payment_Modes" : [
+        "INTEGRATED",
+        "REDIRECTION",
+        "OFFLINE"
+    ],
+    "Checkout_Flows" : [
+        "ONLINE"
+    ],
+    "Application_Url" : "",
+    "Tags" : [
+        "Online"
+    ],
+    "Static_Files_Info" : {
+        "BROCHURE" : "https://catalog.mintpro.in/LIFE/P6/HDFC-Life-Super-Income-PlanBrochure.pdf"
+    },
+    "Special_Features" : [
+        "TM92",
+        "SF37",
+        "SF8",
+        "SF11",
+        "SF12",
+        "TM88",
+        "SF33",
+        "SF2"
+    ],
+    "Embedded_Video_Url" : "https://www.youtube.com/embed/FjZVYCJpb1o",
+    "Target_Audience_Text" : "The plan is ideal for individuals who need regular income at their disposal so that they don't have to worry about future expenses and fulfil their financial goals uninterrupted.",
+    "Is_Eligibility_Check_Required" : false,
+    "Show_Rider" : false,
+    "Show_Rider_Premium" : false,
+    "Premium_Rate" : 0.0,
+    "Currency" : "INR",
+    "Proposal_Provider" : "",
+    "BI_Provider" : "",
+    "Is_Bqp_Redirection_Enabled" : false
+}
